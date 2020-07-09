@@ -9,7 +9,7 @@
                 <div class="col-md-6 col-sm-12 col-xs-12">
                   <div class="row">
                     <div class="col-md-8 offset-2">
-                      <q-img src="~assets/undraw_Login_v483.svg"/>
+                      <q-img src="~assets/undraw_movie_night_fldd.svg"/>
                     </div>
                   </div>
                 </div>

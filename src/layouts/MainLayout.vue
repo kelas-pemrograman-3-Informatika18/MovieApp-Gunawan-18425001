@@ -36,7 +36,7 @@
                   <q-img src="https://cdn.quasar.dev/img/avatar.png"/>
                 </q-avatar>
                 <div class="text-weight-bold q-mt-md">{{ $q.localStorage.getItem('datauser').namaLengkap }}</div>
-                <div>Aplikasi Penjualan Film</div>
+                <div>Aplikasi Penjualan DVD</div>
               </div>
             </q-item>
 
